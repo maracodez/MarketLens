@@ -1,0 +1,6 @@
+{
+  "name": "VantageLine",
+  "description": "Veteran playbooks and live competitor intelligence for new entrepreneurs, freelancers, and content creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
